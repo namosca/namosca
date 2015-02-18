@@ -1,0 +1,2 @@
+# namosca
+namosca
